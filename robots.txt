@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nahgaithi.colinhwang.com/sitemap.xml
